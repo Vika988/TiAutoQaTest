@@ -45,7 +45,7 @@ Console.WriteLine("Length of AC is: '" + ac + "'");
 Console.WriteLine(" ");
 Console.WriteLine("Triangle IS " + equilateral + "'Equilateral'");
 Console.WriteLine("Triangle IS " + isosceles + "'Isosceles'");
-Console.WriteLine("Triangle IS " + right + "'Rigth'");
+Console.WriteLine("Triangle IS " + right + "'Right'");
 Console.WriteLine(" ");
 Console.WriteLine("Perimeter: '" + perimeter + "'");
 Console.WriteLine(" ");
